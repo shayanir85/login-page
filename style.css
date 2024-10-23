@@ -1,0 +1,7 @@
+.font{
+    font-family: shayan;
+}
+@font-face {
+    font-family:shayan ;
+    src: url("IRANSans\(FaNum\).ttf");
+}

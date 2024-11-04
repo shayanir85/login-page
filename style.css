@@ -5,3 +5,8 @@
     font-family:shayan ;
     src: url("IRANSans\(FaNum\).ttf");
 }
+.hov:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+    color: rgb(56, 56, 56);
+}
